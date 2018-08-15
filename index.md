@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Jasmine Lai
+title: 2018_CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jasmine
+Bio
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
