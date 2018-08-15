@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jasmine Lai
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
